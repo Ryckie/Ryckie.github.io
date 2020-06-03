@@ -11,7 +11,7 @@ This is a list of the commands that can be used to control the server. You canno
 - `` - 
 - `` - 
 ### Members only
-- `!announce [message]` -  Send an announcement message to the __#announcements channel__
+- `!announce [message]` -  Send an announcement message to the _#announcements channel_
 - `` - 
 - `` - 
 
