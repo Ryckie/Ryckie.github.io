@@ -86,7 +86,10 @@
 
 - `!tclose` - Close a support ticket and auto delete it.
 - `treply [message]` - Reply to a ticket.
+
+**Server Management**
+This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwMDMxNzIwLDE1OTYwOTY2OSwxNzc2Nj
-AwNDAyLDE2NTI1NTk1ODVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzYzNzMxMzcsOTQwMDMxNzIwLDE1OT
+YwOTY2OSwxNzc2NjAwNDAyLDE2NTI1NTk1ODVdfQ==
 -->
