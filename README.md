@@ -51,6 +51,7 @@ Joins your voice channel and starts a recording
 #### Music Quiz
 - `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be either *Tesla* or *Einstein*.) 
 - `!stop-quiz` - Stop the current Music Quiz game.
+- `!vote-skip` - Start a vote to skip to the next song.
 
 ---
 ## Members only
@@ -62,7 +63,7 @@ Joins your voice channel and starts a recording
 - `!infractions [user]` - Displays how many infractions a user has and the reason if specified.
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
 - `!unmute [user]` - Unmute a user.
-- `!warn [member] <optional reason>`
+- `!warn [user] <optional reason>` - Warn a user.
 
 **Other**
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
@@ -75,5 +76,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA2NzI3NDYsMjk1ODgzNTY5XX0=
+eyJoaXN0b3J5IjpbNzkyNjY1MDIyLDI5NTg4MzU2OV19
 -->
