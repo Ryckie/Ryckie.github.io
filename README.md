@@ -24,11 +24,7 @@
 
   
 
-### Members only
-
--  `!announce [message]` - Send an announcement message to the *#announcements channel*
-
--  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
+### Members o
   ---
   
   
@@ -101,11 +97,11 @@
 
 -  `!warn [user] <optional reason>` - Warn a user.
 
-  
-
-**Other**
-
 -  `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages. To disable use `!slowmode off`.
+
+
+**Channel management**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MTU5NjkxXX0=
+eyJoaXN0b3J5IjpbMzM2NjUyMDcyXX0=
 -->
