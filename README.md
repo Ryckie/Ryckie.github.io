@@ -1,8 +1,7 @@
 ![](https://imgur.com/MqOzqSD.png)
 # [Dead Friends Gaming - Discord commands guide](https://discord.link/defr "Click to open the DEFR Discord")
-# 
 
-### This is a list of the commands that can be used to control the server. You cannot use commands in private messages. Not every command starts with the same prefix, but most are `!`. Required parameters are indicated with `<` and `>`, while optional parameters are indicated with `[` and `]`.
+### This is a list of the commands that can be used to control the server. You cannot use commands in private messages. Not every command starts with the same prefix, but most are `!`. Required parameters are indicated with `<` and `>`, while optional parameters are indicated with `[` and `]`. Please remember to use commands only in the *#bot-cmds* channel.
 
 ## General
 - `!help [category]` - Prints a list of commands.
@@ -22,7 +21,7 @@
 - `!np` - Displays the media that is currently being played.
 - `!skip` - Vote to skip the current media. 
 
-### Music - Member commands
+### Music - Member only commands
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
 - `!shuffle` - Shuffles the queue.
@@ -56,5 +55,5 @@
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODQzMTg5NywyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbMjA2NTk3OTQ0MiwyOTU4ODM1NjldfQ==
 -->
