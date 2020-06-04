@@ -92,7 +92,8 @@
 - `!gadmin` - Give yourself the *admins* role.  (🛑 This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you can go ahead 😊! Just be aware that you don't delete messages or stuff. Since this is most likely irreversible!)
 - `!radmin` - Remove the *admin* role from yourself.
 
-<div style="background-image: url('img_girl.jpg');">
+<div style="background-image: url('https://s3.amazonaws.com/files.enjin.com/778581/Final DEFR Logo/AVI-2.jpg');">
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzAwOTc5NCwtNTgzNzQwNTEzXX0=
+eyJoaXN0b3J5IjpbMTg3NDY0ODgyNiwtNTgzNzQwNTEzXX0=
 -->
