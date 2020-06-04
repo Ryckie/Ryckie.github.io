@@ -20,15 +20,19 @@ This is a list of the commands that can be used to control the server. You canno
 - `!queue` - Displays all of the media that is queued.
 - `!np` - Displays the media that is currently being played.
 - `!skip` - Vote to skip the current media. 
+### Member only music commands
+- `!skip f` - Instantly skip the current media.
+- `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
+- `!shuffle` - Shuffles the queue.
+- `!clear` - Clears the queue.
+- `!pause` - Pauses the current media. (Media auto pauses when the channel is empty)
+- `!resume` - Resumes the current media. (Media auto resumes when joining the channel if it was auto paused)
+- `!summon` - Connects the bot to your current voice channel, if it has permission.
+- `!blacklist <status> <@user1>...` - Add or remove users from the blacklist. Blacklisted users cannot use any bot commands. This overrides any permissions settings set in the permissions file. The owner cannot be blacklisted. Multiple users can be specified in the command. Users must be @mentioned. Status should be either `+`, `-`, `add`, or `remove`.
+- `!stream <url>` - Streams a URL. This can be a Twitch, YouTube, etc livestream, or a radio stream. This feature of the bot is experimental and may have some issues.
+- `!remove <number>` - Removes a song from the queue by its numbered position. Use ``!queue` to find out song positions.
+Joins your voice channel and starts a recording
 
-
-## Fun
-#### Music Quiz
-- `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be *Tesla* or *Einstein*.) 
-- `!stop-quiz` - Stop the current Music Quiz game.
-
----
-### Members only
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
 - `!shuffle` - Shuffles the queue.
@@ -41,6 +45,18 @@ This is a list of the commands that can be used to control the server. You canno
 - `!remove <number>` - Removes a song from the queue by its numbered position. Use ``!queue` to find out song positions.
 
 
+
+## Fun
+#### Music Quiz
+- `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be *Tesla* or *Einstein*.) 
+- `!stop-quiz` - Stop the current Music Quiz game.
+
+---
+### Members only
+Joins your voice channel and starts a recording
+
+
+
     | First Header  | Second Header |
     | ------------- | ------------- |
     | Content Cell  | Content Cell  |
@@ -48,5 +64,5 @@ This is a list of the commands that can be used to control the server. You canno
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMjY4MjU0XX0=
+eyJoaXN0b3J5IjpbLTQ1MDU5Mzg3Ml19
 -->
