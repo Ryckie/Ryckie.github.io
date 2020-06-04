@@ -20,7 +20,8 @@ This is a list of the commands that can be used to control the server. You canno
 - `!queue` - Displays all of the media that is queued.
 - `!np` - Displays the media that is currently being played.
 - `!skip` - Vote to skip the current media. 
-### Member only music commands
+
+### Music - Member commands
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
 - `!shuffle` - Shuffles the queue.
@@ -52,8 +53,8 @@ Joins your voice channel and starts a recording
 - `!stop-quiz` - Stop the current Music Quiz game.
 
 ---
-### Members only
-Joins your voice channel and starts a recording
+## Members only
+- `!record` - Record your currect voice channel and starts a recording
 
 
 
@@ -64,5 +65,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDU5Mzg3Ml19
+eyJoaXN0b3J5IjpbMTQyMzU5NjQ0NF19
 -->
