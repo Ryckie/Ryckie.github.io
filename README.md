@@ -51,13 +51,13 @@
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
 - `!unmute [user]` - Unmute a user.
 - `!warn [user] <optional reason>` - Warn a user.
-- `%accept [usermention] default` - Should be used in the *#application-log* channel. (A prompt will ask you for wish role you want to give the user. This should be
+- `%accept [usermention] default` - Should be used in the *#application-log* channel. (A prompt will ask you for wish role you want to give the user. This should be either `@[DEFR] Aplicant` or by exception `@[DEFR] Member`.
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 **Other**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzAyNDcxMywtMjA4NjI5OTE2MSwxND
-MwMzg2NTkyLDIwNjU5Nzk0NDJdfQ==
+eyJoaXN0b3J5IjpbNTg0MjI4MTkzLC02NzMwMjQ3MTMsMTQzMD
+M4NjU5MiwyMDY1OTc5NDQyXX0=
 -->
