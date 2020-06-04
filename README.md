@@ -55,5 +55,5 @@
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk3OTQ0MiwyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbMjA2NTk3OTQ0Ml19
 -->
