@@ -1,4 +1,4 @@
-![](https://s3.amazonaws.com/files.enjin.com/778581/Final DEFR Logo/Logo-DEFR.png)
+![]('https://s3.amazonaws.com/files.enjin.com/778581/Final DEFR Logo/Logo-DEFR.png)
 # [Dead Friends Gaming - Discord commands guide](https://discord.link/defr "Click to open the DEFR Discord")
 
 ### This is a list of the commands that can be used to control the server. You cannot use commands in private messages. Not every command starts with the same prefix, but most are `!`. Required parameters are indicated with `<` and `>`, while optional parameters are indicated with `[` and `]`. Please remember to use commands only in the *#bot-cmds* channel.
@@ -56,5 +56,5 @@
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzkyNzMxNSwyMDY1OTc5NDQyXX0=
+eyJoaXN0b3J5IjpbLTIzMjc5MTExOCwyMDY1OTc5NDQyXX0=
 -->
