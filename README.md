@@ -88,8 +88,8 @@
 - `treply [message]` - Reply to a ticket.
 
 **Server Management**
-This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you c
+This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you can go ahead 😊! Just be aware that you don't delete messages or stuff. Since this is most like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzYzNzMxMzcsOTQwMDMxNzIwLDE1OT
-YwOTY2OSwxNzc2NjAwNDAyLDE2NTI1NTk1ODVdfQ==
+eyJoaXN0b3J5IjpbMTQ5MzA0NDkyLDk0MDAzMTcyMCwxNTk2MD
+k2NjksMTc3NjYwMDQwMiwxNjUyNTU5NTg1XX0=
 -->
