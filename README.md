@@ -1,5 +1,6 @@
 ![](https://imgur.com/MqOzqSD.png)
 # [Dead Friends Gaming - Discord commands guide](https://discord.link/defr "Click to open the DEFR Discord")
+# Welcome to the Dead-Friends
 
 This is a list of the commands that can be used to control the server. You cannot use commands in private messages. Not every command starts with the same prefix, but most are `!`. Required parameters are indicated with `<` and `>`, while optional parameters are indicated with `[` and `]`.
 
@@ -55,5 +56,5 @@ This is a list of the commands that can be used to control the server. You canno
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIwMDA2MjEsMjk1ODgzNTY5XX0=
+eyJoaXN0b3J5IjpbLTE0MzI1NTQ2MDQsMjk1ODgzNTY5XX0=
 -->
