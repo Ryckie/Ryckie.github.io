@@ -57,7 +57,7 @@
   
   
 
-## --- Member only commands ---
+## Member only commands
 
 **Recording voice channels**
 
