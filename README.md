@@ -81,7 +81,12 @@
 
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
+
+**Tickets**
+
+- `!tclose` - Close a support ticket and auto delete it.
+- `treply` -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjA5NjY5LDE3NzY2MDA0MDIsMTY1Mj
-U1OTU4NV19
+eyJoaXN0b3J5IjpbLTEzMzQwNDY5MDUsMTU5NjA5NjY5LDE3Nz
+Y2MDA0MDIsMTY1MjU1OTU4NV19
 -->
