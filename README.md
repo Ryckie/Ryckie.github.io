@@ -25,7 +25,7 @@
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
 - `!shuffle` - Shuffles the queue.
-- `!clear` - Clears the queue. (N
+- `!clear` - Clears the queue. (Not to con
 - `!pause` - Pauses the current media. (Media auto pauses when the channel is empty)
 - `!resume` - Resumes the current media. (Media auto resumes when joining the channel if it was auto paused)
 - `!summon` - Connects the bot to your current voice channel, if it has permission.
@@ -58,6 +58,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjkzNTk2MCwxNDMwMzg2NTkyLDIwNj
-U5Nzk0NDJdfQ==
+eyJoaXN0b3J5IjpbNTk4ODQzODA2LC00MjI5MzU5NjAsMTQzMD
+M4NjU5MiwyMDY1OTc5NDQyXX0=
 -->
