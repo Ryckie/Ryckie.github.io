@@ -53,7 +53,7 @@
 -  `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be either *Tesla* or *Einstein*.)
 -  `!pass` - Start a vote to pass a song.
 
-### Games - Member only commands
+**Games - Member only commands**
 -  `!stop-quiz` - Stop the current Music Quiz game.
 
   
@@ -91,3 +91,6 @@
 
 - `!gadmin` - Give yourself the *admins* role.  (🛑 This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you can go ahead 😊! Just be aware that you don't delete messages or stuff. Since this is most likely irreversible!)
 - `!radmin` - Remove the *admin* role from yourself.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU4Mzc0MDUxM119
+-->
