@@ -24,8 +24,8 @@ This is a list of the commands that can be used to control the server. You canno
 
 ## Fun
 #### Music Quiz
-- `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be *Tesla* or ** 
-- `!stop-quiz` - 
+- `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be *Tesla* or *Einstein*.) 
+- `!stop-quiz` - Stop the current Music Quiz game.
 
 ---
 ### Members only
@@ -48,5 +48,5 @@ This is a list of the commands that can be used to control the server. You canno
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTQ1ODkyXX0=
+eyJoaXN0b3J5IjpbMzUzMjY4MjU0XX0=
 -->
