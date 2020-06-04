@@ -63,7 +63,7 @@ Joins your voice channel and starts a recording
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
 
 **Other**
-- `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time 
+- `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable
 
     | First Header  | Second Header |
     | ------------- | ------------- |
@@ -72,5 +72,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDg2MjY2NiwyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbLTk5MzAyNDQ1MiwyOTU4ODM1NjldfQ==
 -->
