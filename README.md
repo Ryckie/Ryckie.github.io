@@ -85,8 +85,8 @@
 **Tickets**
 
 - `!tclose` - Close a support ticket and auto delete it.
-- `treply` -
+- `treply [message]` - Reply to a ticket.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQwNDY5MDUsMTU5NjA5NjY5LDE3Nz
-Y2MDA0MDIsMTY1MjU1OTU4NV19
+eyJoaXN0b3J5IjpbOTQwMDMxNzIwLDE1OTYwOTY2OSwxNzc2Nj
+AwNDAyLDE2NTI1NTk1ODVdfQ==
 -->
