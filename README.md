@@ -6,7 +6,7 @@ This is a list of the commands that can be used to control the server. You canno
 ## General
 - `!help [category]` - Prints a list of commands.
 - `!info [page]` - Prints a list of info pages.
-- `
+- `%apply` - Start a member application in DM. (Make sure you have dm's enabled in privacy settings for this server).
 - `!ping` - Returns the bot response time.
 - `!levels` - Get a link to the leaderboard.
 - `!rank <optional user>` - Get the rank of anyone in the server.
@@ -55,5 +55,5 @@ This is a list of the commands that can be used to control the server. You canno
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUzODI1ODcsMjk1ODgzNTY5XX0=
+eyJoaXN0b3J5IjpbLTE3NjIwMDA2MjEsMjk1ODgzNTY5XX0=
 -->
