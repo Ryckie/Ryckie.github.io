@@ -79,6 +79,3 @@
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
 - 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMzMjg5NDNdfQ==
--->
