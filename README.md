@@ -42,6 +42,8 @@
 -  `!blacklist <status> <@user1>...` - Add or remove users from the blacklist. Blacklisted users cannot use any bot commands. This overrides any permissions settings set in the permissions file. The owner cannot be blacklisted. Multiple users can be specified in the command. Users must be @mentioned. Status should be either `+`, `-`, `add`, or `remove`.
 -  `!stream <url>` - Streams a URL. This can be a Twitch, YouTube, etc livestream, or a radio stream. This feature of the bot is experimental and may have some issues.
 -  `!remove <number>` - Removes a song from the queue by its numbered position. Use ``!queue` to find out song positions.
+- `!karaoke` Activate or deactivate karaoke mode. (During karaoke mode, only groups with the BypassKaraokeMode
+permission in the config file can queue music.
 
   
 
@@ -79,3 +81,6 @@
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
 - 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgxNzA0MjM4M119
+-->
