@@ -28,10 +28,10 @@
 
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 
--  `!clear <member> [ammount]` - Clear x messages in the current channel. (Mention a member to delete x amount of messages from that member only.
-
+-  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
+  ---
   
-
+  
 ## Music
 
 -  `!play <URL/query` - Plays audio from a specific URL or searches for a query on YouTube and queues the first result.
@@ -107,5 +107,5 @@
 
 -  `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages. To disable use `!slowmode off`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTUxMzkxMV19
+eyJoaXN0b3J5IjpbNjY3MTU5NjkxXX0=
 -->
