@@ -25,7 +25,7 @@
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
 - `!shuffle` - Shuffles the queue.
-- `!clear` - Clears the queue. (Not to con
+- `!clear` - Clears the queue.
 - `!pause` - Pauses the current media. (Media auto pauses when the channel is empty)
 - `!resume` - Resumes the current media. (Media auto resumes when joining the channel if it was auto paused)
 - `!summon` - Connects the bot to your current voice channel, if it has permission.
@@ -51,13 +51,13 @@
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
 - `!unmute [user]` - Unmute a user.
 - `!warn [user] <optional reason>` - Warn a user.
-- `%accept`
+- `%accept [usermention] default`
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 **Other**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4ODQzODA2LC00MjI5MzU5NjAsMTQzMD
-M4NjU5MiwyMDY1OTc5NDQyXX0=
+eyJoaXN0b3J5IjpbLTE4MDg1NjAyNzgsNTk4ODQzODA2LDE0Mz
+AzODY1OTIsMjA2NTk3OTQ0Ml19
 -->
