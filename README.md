@@ -49,12 +49,12 @@ Joins your voice channel and starts a recording
 
 ## Fun
 #### Music Quiz
-- `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be *Tesla* or *Einstein*.) 
+- `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be either *Tesla* or *Einstein*.) 
 - `!stop-quiz` - Stop the current Music Quiz game.
 
 ---
 ## Members only
-- `!record` - Record your currect voice channel and starts a recording
+- `!record` - Have MEE6 connect to your voice channel and starts a recording. (Channel must be either *Tesla*, *Einstein* or a meeting channel.) **(You need to 
 
 
 
@@ -65,5 +65,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzU5NjQ0NF19
+eyJoaXN0b3J5IjpbMTU2MTQ0NzAzNV19
 -->
