@@ -8,8 +8,7 @@
 - `!info [page]` - Prints a list of info pages.
 - `%apply` - Start a member application in DM. (Make sure you have dm's enabled in privacy settings for this server).
 - `!ping` - Returns the bot response time.
-- `!levels` - Get a link to the leaderboard.
-- `!rank <optional user>` - Get the rank of anyone in the server.
+- `!levels` - Get a link to the leaderboard. You can  `!rank <optional user>` - Get the rank of anyone in the server.
 
 ### Members only
 - `!announce [message]` -  Send an announcement message to the *#announcements channel*
@@ -25,7 +24,7 @@
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
 - `!shuffle` - Shuffles the queue.
-- `!clear` - Clears the queue.
+- `!clearqueue` - Clears the queue.
 - `!pause` - Pauses the current media. (Media auto pauses when the channel is empty)
 - `!resume` - Resumes the current media. (Media auto resumes when joining the channel if it was auto paused)
 - `!summon` - Connects the bot to your current voice channel, if it has permission.
@@ -58,6 +57,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MjI4MTkzLC02NzMwMjQ3MTMsMTQzMD
-M4NjU5MiwyMDY1OTc5NDQyXX0=
+eyJoaXN0b3J5IjpbMTQ1NzcyOTk4Niw1ODQyMjgxOTMsLTY3Mz
+AyNDcxMywxNDMwMzg2NTkyLDIwNjU5Nzk0NDJdfQ==
 -->
