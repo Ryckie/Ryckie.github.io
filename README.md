@@ -38,8 +38,9 @@ This is a list of the commands that can be used to control the server. You canno
 - `!stop-quiz` - Stop the current Music Quiz game.
 - `!vote-skip` - Start a vote to skip to the next song.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------**
-## Member only commands
+---
+> ## 
+## ---Member only commands
 **Recording voice channels**
 - `!record` - Have MEE6 connect to your voice channel and starts a recording. (Channel must be either *Tesla*, *Einstein* or a meeting channel.) **(You need to warn every user that is connected that they are being recorded!)**
 - `!stop-recording` - Stop the current recording.
@@ -61,5 +62,5 @@ This is a list of the commands that can be used to control the server. You canno
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI5MTI5NywyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbMzMwNTA5ODEsMjk1ODgzNTY5XX0=
 -->
