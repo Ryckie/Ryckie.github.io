@@ -32,14 +32,14 @@ This is a list of the commands that can be used to control the server. You canno
 - `!stream <url>` - Streams a URL. This can be a Twitch, YouTube, etc livestream, or a radio stream. This feature of the bot is experimental and may have some issues.
 - `!remove <number>` - Removes a song from the queue by its numbered position. Use ``!queue` to find out song positions.
 
-## Fun
+## Games
 #### Music Quiz
 - `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be either *Tesla* or *Einstein*.) 
 - `!stop-quiz` - Stop the current Music Quiz game.
 - `!vote-skip` - Start a vote to skip to the next song.
 
----
-## Members only
+**--------------------------------------------------------------------------------------------------------------------------------------------------**
+## Member only commands
 **Recording voice channels**
 - `!record` - Have MEE6 connect to your voice channel and starts a recording. (Channel must be either *Tesla*, *Einstein* or a meeting channel.) **(You need to warn every user that is connected that they are being recorded!)**
 - `!stop-recording` - Stop the current recording.
@@ -61,5 +61,5 @@ This is a list of the commands that can be used to control the server. You canno
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTg5MjI4MSwyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbMjEyMzI5MTI5NywyOTU4ODM1NjldfQ==
 -->
