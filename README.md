@@ -12,7 +12,7 @@ This is a list of the commands that can be used to control the server. You canno
 - `` - 
 ### Members only
 - `!announce [message]` -  Send an announcement message to the *#announcements channel*
-- `!clear [ammount]` - Clear mes
+- `!clear <member> [ammount]` - Clear x messages in the current channel. (Mention a member to delete x ammount of mess
 - `` - 
 
 ## Music
@@ -69,5 +69,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjQyMTA5OSwyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbLTExMTUwODY5ODUsMjk1ODgzNTY5XX0=
 -->
