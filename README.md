@@ -1,56 +1,111 @@
+![](https://imgur.com/S9EY6m3.png)
 
+# [Dead Friends Gaming - Discord commands guide](https://discord.link/defr "Click to open the DEFR Discord")
 
+  
+
+### This is a list of the commands that can be used to control the server. You cannot use commands in private messages. Not every command starts with the same prefix, but most are `!`. Required parameters are indicated with `<` and `>`, while optional parameters are indicated with `[` and `]`. Please remember to use commands only in the *#bot-cmds* channel.
+
+  
+
+## General
+
+-  `!help [category]` - Prints a list of commands.
+
+-  `!info [page]` - Prints a list of info pages.
+
+-  `%apply` - Start a member application in DM. (Make sure you have dm's enabled in privacy settings for this server).
+
+-  `!ping` - Returns the bot response time.
+
+-  `!levels` - Get a link to the leaderboard.
+
+-  `!rank <optional user>` - Get the rank of anyone in the server.
+
+  
+
+### Members only
+
+-  `!announce [message]` - Send an announcement message to the *#announcements channel*
+
+-  `!clear <member> [ammount]` - Clear x messages in the current channel. (Mention a member to delete x amount of messages from that member only.
+
+  
+
+## Music
+
+-  `!play <URL/query` - Plays audio from a specific URL or searches for a query on YouTube and queues the first result.
+
+-  `!queue` - Displays all of the media that is queued.
+
+-  `!np` - Displays the media that is currently being played.
+
+-  `!skip` - Vote to skip the current media.
+
+  
+
+### Music - Member only commands
+
+-  `!skip f` - Instantly skip the current media.
+
+-  `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
+
+-  `!shuffle` - Shuffles the queue.
+
+-  `!clear` - Clears the queue.
+
+-  `!pause` - Pauses the current media. (Media auto pauses when the channel is empty)
+
+-  `!resume` - Resumes the current media. (Media auto resumes when joining the channel if it was auto paused)
+
+-  `!summon` - Connects the bot to your current voice channel, if it has permission.
+
+-  `!blacklist <status> <@user1>...` - Add or remove users from the blacklist. Blacklisted users cannot use any bot commands. This overrides any permissions settings set in the permissions file. The owner cannot be blacklisted. Multiple users can be specified in the command. Users must be @mentioned. Status should be either `+`, `-`, `add`, or `remove`.
+
+-  `!stream <url>` - Streams a URL. This can be a Twitch, YouTube, etc livestream, or a radio stream. This feature of the bot is experimental and may have some issues.
+
+-  `!remove <number>` - Removes a song from the queue by its numbered position. Use ``!queue` to find out song positions.
+
+  
+
+## Games
+
+#### Music Quiz
+
+-  `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be either *Tesla* or *Einstein*.)
+
+-  `!stop-quiz` - Stop the current Music Quiz game.
+
+-  `!vote-skip` - Start a vote to skip to the next song.
 
   
   
-  <title>README</title>
+
+## --- Member only commands ---
+
+**Recording voice channels**
+
+-  `!record` - Have MEE6 connect to your voice channel and starts a recording. (Channel must be either *Tesla*, *Einstein* or a meeting channel.) **(You need to warn every user that is connected that they are being recorded!)**
+
+-  `!stop-recording` - Stop the current recording.
+
   
 
+**User Management**
 
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-</div></div><ul>
-<li><a href="#dead-friends-gaming---discord-commands-guide">Dead Friends Gamingiscordcommandsguide</a>
-<ul>
-<li></li>
-<li><a href="#general">General</a></li>
-<li><a href="#music">Music</a></li>
-<li><a href="#games">Games</a>
-<ul>
-<li></li>
-</ul>
-</li>
-<li><a href="#member-only-commands">Member only commands</a></li>
-</ul>
-</li>
-</ul>
-<pre><code>&lt;/div&gt;
-</code></pre>
+-  `!infractions [user]` - Displays how many infractions a user has and the reason if specified.
+
+-  `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
+
+-  `!unmute [user]` - Unmute a user.
+
+-  `!warn [user] <optional reason>` - Warn a user.
+
   
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <p><img src="https://imgur.com/S9EY6m3.png" alt=""></p>
-<h1 id="d)
-# [Dead-f Friends-g Gaming---d - Discord- commands- guide"></h1></div></div><p>o.!play lt;&lt;URL/query - Plays audio from a specific URL or searches for a query on YouTube and queues the first result.</p>
-<li><code>!queue</code> - Displays all of the media that is queued.</li>
-<li><code>!np</code>
-</li><li><code>!skip</code> - Vote to skip the current media.</li>
 
-<h3 id="music---member-only-commands">Music - Member only commands</h3>
-<ul>
-<li><code>!skip f</code> - Instantly skip the current media.</li>
-<li><code>!search [service] [#] &lt;</code></li></ul><h2 id="member-only-commandsh2">Member only commands</h2>
-<p><strong>
-**Recording voice channels</strong></p>
-<ul>
-<li><code>!record</code> - Have MEE6 connect to your voice channel and starts a recording. (Channel must be either <em>*Tesla</em>, <em>*, *Einstein</em>* or a meeting channel.) <strong>**(You need to warn every user that is connected that they are being recorded!)</strong></li>
-<li><code>!stop-recording</code> - Stop the current recording.</li>
-</ul>
-<p><strong>User Management</strong></p>
-<ul>
-<li><code>!infractions [user]</code>` - Displays how many infractions a user has and the reason if specified.</li>
-<li><code>
-- `!tempmute [user] [duration] &lt;</code></li></ul>  
+**Other**
 
-
-
+-  `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages. To disable use `!slowmode off`.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY2OTUxMzkxMV19
+-->
