@@ -51,8 +51,10 @@
 #### Music Quiz
 
 -  `!start-quiz` - Start a Music Quiz game in your voice channel. (Channel must be either *Tesla* or *Einstein*.)
--  `!stop-quiz` - Stop the current Music Quiz game.
 -  `!vote-skip` - Start a vote to skip to the next song.
+
+### Games - Member only commands
+-  `!stop-quiz` - Stop the current Music Quiz game.
 
   
   
@@ -80,5 +82,5 @@
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjU1OTU4NV19
+eyJoaXN0b3J5IjpbMTc3NjYwMDQwMiwxNjUyNTU5NTg1XX0=
 -->
