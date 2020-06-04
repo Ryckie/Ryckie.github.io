@@ -54,9 +54,12 @@ Joins your voice channel and starts a recording
 
 ---
 ## Members only
+**Recording voice channels**
 - `!record` - Have MEE6 connect to your voice channel and starts a recording. (Channel must be either *Tesla*, *Einstein* or a meeting channel.) **(You need to warn every user that is connected that they are being recorded!)**
 - `!stop-recording` - Stop the current recording.
 
+**User Management**
+- 
 
 
     | First Header  | Second Header |
@@ -66,5 +69,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODgzNTY5XX0=
+eyJoaXN0b3J5IjpbNTIwMzAyMzcsMjk1ODgzNTY5XX0=
 -->
