@@ -13,7 +13,7 @@
 
 ### Members only
 - `!announce [message]` -  Send an announcement message to the *#announcements channel*
-- `!clear <user-mention> [ammount]` - Clear x messages in the current channel. (Mention a user to delete x amount of messages from that member only.
+- `!clear <user-mention> [ammount]` - Clear x messages in the current channel. (If a user is mentioned, their messages only will be removed.)
 
 ## Music
 - `!play <URL/query` - Plays audio from a specific URL or searches for a query on YouTube and queues the first result.
@@ -58,7 +58,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjM5MDA4MCw4ODg2NjAzNzksNTg0Mj
-I4MTkzLC02NzMwMjQ3MTMsMTQzMDM4NjU5MiwyMDY1OTc5NDQy
-XX0=
+eyJoaXN0b3J5IjpbLTMzMTUzMTkyLDg4ODY2MDM3OSw1ODQyMj
+gxOTMsLTY3MzAyNDcxMywxNDMwMzg2NTkyLDIwNjU5Nzk0NDJd
+fQ==
 -->
