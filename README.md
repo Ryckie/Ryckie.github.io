@@ -12,7 +12,7 @@ This is a list of the commands that can be used to control the server. You canno
 - `` - 
 ### Members only
 - `!announce [message]` -  Send an announcement message to the *#announcements channel*
-- `` - 
+- `!clear [ammount]` - Clear mes
 - `` - 
 
 ## Music
@@ -59,7 +59,7 @@ Joins your voice channel and starts a recording
 - `!stop-recording` - Stop the current recording.
 
 **User Management**
-- 
+- `!`
 
 
     | First Header  | Second Header |
@@ -69,5 +69,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMzAyMzcsMjk1ODgzNTY5XX0=
+eyJoaXN0b3J5IjpbMTMwNjQyMTA5OSwyOTU4ODM1NjldfQ==
 -->
