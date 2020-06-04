@@ -11,7 +11,7 @@
 ## General
 
 -  `!help [category]` - Prints a list of commands.
--  `!info [page]` - Prints a list of info pages.
+-  `!info [page]` - Prints a list of info pages. [!] THIS CMD IS NOT FINISHED [!]
 -  `%apply` - Start a member application in DM. (Make sure you have dm's enabled in privacy settings for this server).
 -  `!ping` - Returns the bot response time.
 -  `!levels` - Get a link to the leaderboard.
@@ -79,3 +79,6 @@
 
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY1MjU1OTU4NV19
+-->
