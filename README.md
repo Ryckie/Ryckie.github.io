@@ -93,7 +93,6 @@
 - `!radmin` - Remove the *admin* role from yourself.
 
 <div style="background-image: url('https://s3.amazonaws.com/files.enjin.com/778581/Final DEFR Logo/AVI-2.jpg');">
-*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDY0ODgyNiwtNTgzNzQwNTEzXX0=
--->
+******************
+Last updated on June, 5 2020
+Made by: dangerBEclose
