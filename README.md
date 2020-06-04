@@ -29,6 +29,7 @@
 - `!pause` - Pauses the current media. (Media auto pauses when the channel is empty)
 - `!resume` - Resumes the current media. (Media auto resumes when joining the channel if it was auto paused)
 - `!summon` - Connects the bot to your current voice channel, if it has permission.
+- `!save` - Save the current song to the autoplaylist.
 - `!blacklist <status> <@user1>...` - Add or remove users from the blacklist. Blacklisted users cannot use any bot commands. This overrides any permissions settings set in the permissions file. The owner cannot be blacklisted. Multiple users can be specified in the command. Users must be @mentioned. Status should be either `+`, `-`, `add`, or `remove`.
 - `!stream <url>` - Streams a URL. This can be a Twitch, YouTube, etc livestream, or a radio stream. This feature of the bot is experimental and may have some issues.
 - `!remove <number>` - Removes a song from the queue by its numbered position. Use ``!queue` to find out song positions.
@@ -55,5 +56,5 @@
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTk3OTQ0Ml19
+eyJoaXN0b3J5IjpbLTYzMDc2MjA5NSwyMDY1OTc5NDQyXX0=
 -->
