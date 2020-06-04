@@ -59,7 +59,8 @@ Joins your voice channel and starts a recording
 - `!stop-recording` - Stop the current recording.
 
 **User Management**
-- `!infractions [member]` - Displays how many infractions this member has.
+- `!infractions [user]` - Displays how many infractions this member has and the reason if specified.
+- `!tempmute [user] [duration] <optional reason>` - Temporally mute a user for 
 
 
     | First Header  | Second Header |
@@ -69,5 +70,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mjg2MDE2NiwyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbNzY5NjQyMDUyLDI5NTg4MzU2OV19
 -->
