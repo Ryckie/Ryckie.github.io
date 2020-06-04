@@ -23,8 +23,10 @@ This is a list of the commands that can be used to control the server. You canno
 
 
 ## Fun
-- `!music_quiz` - 
+#### Music Quiz
+- `!start-quiz` - 
 
+---
 ### Members only
 - `!skip f` - Instantly skip the current media.
 - `!search [service] [#] <query>` - Searches a specific service (default: YT) for a query and returns the first few results (default: 3, limit: 10). The user can then select from the results if they want to add any to the queue.
@@ -45,5 +47,5 @@ This is a list of the commands that can be used to control the server. You canno
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODA2ODA0NF19
+eyJoaXN0b3J5IjpbMTU2OTY5NDk1Nl19
 -->
