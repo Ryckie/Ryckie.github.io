@@ -61,9 +61,12 @@ Joins your voice channel and starts a recording
 **User Management**
 - `!infractions [user]` - Displays how many infractions a user has and the reason if specified.
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
+- `!unmute [user]` - Unmute a user.
+- `!warn [member] <optional reason>`
 
 **Other**
-- `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable
+- `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
+- 
 
     | First Header  | Second Header |
     | ------------- | ------------- |
@@ -72,5 +75,5 @@ Joins your voice channel and starts a recording
 
 ### End
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzAyNDQ1MiwyOTU4ODM1NjldfQ==
+eyJoaXN0b3J5IjpbLTE1NDA2NzI3NDYsMjk1ODgzNTY5XX0=
 -->
