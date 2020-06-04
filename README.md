@@ -13,7 +13,7 @@
 
 ### Members only
 - `!announce [message]` -  Send an announcement message to the *#announcements channel*
-- `!clear <member> [ammount]` - Clear x messages in the current channel. (Mention a member to delete x amount of messages from that member only.
+- `!clear <user-mention> [ammount]` - Clear x messages in the current channel. (Mention a user to delete x amount of messages from that member only.
 
 ## Music
 - `!play <URL/query` - Plays audio from a specific URL or searches for a query on YouTube and queues the first result.
@@ -51,14 +51,14 @@
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
 - `!unmute [user]` - Unmute a user.
 - `!warn [user] <optional reason>` - Warn a user.
-- `%accept [usermention] default` - Should be used in the *#application-log* channel. (A prompt will ask you for wish role you want to give the user. This should be either `@[DEFR] Aplicant` or by exception `@[DEFR] Member`.
+- `%accept [user-mention] default` - Should be used in the *#application-log* channel. (A prompt will ask you for wish role you want to give the user. This should be either `@[DEFR] Aplicant` or by exception `@[DEFR] Member`.
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 **Other**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUzNDE4MDAsODg4NjYwMzc5LDU4ND
-IyODE5MywtNjczMDI0NzEzLDE0MzAzODY1OTIsMjA2NTk3OTQ0
-Ml19
+eyJoaXN0b3J5IjpbLTQ1MjM5MDA4MCw4ODg2NjAzNzksNTg0Mj
+I4MTkzLC02NzMwMjQ3MTMsMTQzMDM4NjU5MiwyMDY1OTc5NDQy
+XX0=
 -->
