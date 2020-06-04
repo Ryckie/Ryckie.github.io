@@ -51,13 +51,13 @@
 - `!tempmute [user] [duration] <optional reason>` - Temporally mute a user with an optional reason.
 - `!unmute [user]` - Unmute a user.
 - `!warn [user] <optional reason>` - Warn a user.
-- `%accept [usermention] default`
+- `%accept [usermention] default` - 
 - `!slowmode [timeout]` - Enables/Disables slowmode in a channel. (Time in seconds a user has to wait in between sending messages.  To disable use `!slowmode off`.
 
 **Other**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg1NjAyNzgsNTk4ODQzODA2LDE0Mz
-AzODY1OTIsMjA2NTk3OTQ0Ml19
+eyJoaXN0b3J5IjpbMTQwMDI2ODc3NywtMTgwODU2MDI3OCwxND
+MwMzg2NTkyLDIwNjU5Nzk0NDJdfQ==
 -->
