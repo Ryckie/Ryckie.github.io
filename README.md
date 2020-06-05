@@ -80,7 +80,7 @@
 **Channel / message management**
 
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
--  `!clear <usermention> [ammount]` - Clear x messages (optional from the mentioned member) in the current channel.
+-  `!clear <@user> [ammount]` - Clear x messages (optional from the mentioned user) in the current channel.
 
 **Tickets**
 
@@ -92,7 +92,13 @@
 - `!gadmin` - Give yourself the *admins* role.  (🛑 This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you can go ahead 😊! Just be aware that you don't delete messages or stuff. Since this is most likely irreversible!)
 - `!radmin` - Remove the *admin* role from yourself.
 
+## Admin only commands
+
+
 <div style="background-image: url('https://s3.amazonaws.com/files.enjin.com/778581/Final DEFR Logo/AVI-2.jpg');">
 ******************
 Last updated on June, 5 2020
 Made by: dangerBEclose
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MzY3OTEzMzVdfQ==
+-->
