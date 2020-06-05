@@ -24,6 +24,7 @@
 </ul>
 </li>
 <li><a href="#member-only-commands">Member only commands</a></li>
+<li><a href="#admin-only-commands">Admin only commands</a></li>
 </ul>
 </li>
 </ul>
@@ -93,7 +94,7 @@
 <p><strong>Channel / message management</strong></p>
 <ul>
 <li><code>!announce [message]</code> - Send an announcement message to the <em>#announcements channel</em></li>
-<li><code>!clear &lt;usermention&gt; [ammount]</code> - Clear x messages (optional from the mentioned member) in the current channel.</li>
+<li><code>!clear &lt;@user&gt; [ammount]</code> - Clear x messages (optional from the mentioned user) in the current channel.</li>
 </ul>
 <p><strong>Tickets</strong></p>
 <ul>
@@ -105,6 +106,9 @@
 <li><code>!gadmin</code> - Give yourself the <em>admins</em> role.  (🛑 This grants you nearly full admin permissions to the server and bots. You should avoid having this enabled for your role. However, if you are 100% sure what you are doing, you can go ahead 😊! Just be aware that you don’t delete messages or stuff. Since this is most likely irreversible!)</li>
 <li><code>!radmin</code> - Remove the <em>admin</em> role from yourself.</li>
 </ul>
+<h2 id="admin-only-commands">Admin only commands</h2>
+<p>Note: these commands only work if you have the administrator permission. The <em>admins</em> role does not have administrator permission.</p>
+<p><code>!role [@user] [role]</code> - Adds the role to the mentioned user, if the user already has the role then it removes it from them.</p>
 <div>
 ******************
 Last updated on June, 5 2020
