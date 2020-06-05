@@ -93,12 +93,14 @@
 - `!radmin` - Remove the *admin* role from yourself.
 
 ## Admin only commands
+Note: these commands only work if you have the administrator permission. The *admins* role does not have administrator permission.
 
+`!giverole [@user] [@role]`
 
 <div style="background-image: url('https://s3.amazonaws.com/files.enjin.com/778581/Final DEFR Logo/AVI-2.jpg');">
 ******************
 Last updated on June, 5 2020
 Made by: dangerBEclose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY3OTEzMzVdfQ==
+eyJoaXN0b3J5IjpbLTg4NDk4MzM4XX0=
 -->
