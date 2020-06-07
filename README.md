@@ -81,7 +81,7 @@
 
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <@user> [ammount]` - Clear x messages (optional from the mentioned user) in the current channel.
-- 
+- `!create-forum [forum-name] [public/private] [Your forum topic.]` - Create a public or private (member onl
 
 **Tickets**
 
@@ -105,5 +105,6 @@ Note: these commands only work if you have the administrator permission. The *ad
 Last updated on June, 5 2020
 Made by: dangerBEclose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUwNjA5NDFdfQ==
+eyJoaXN0b3J5IjpbLTIwODQyNTkwMDksLTE5MjUwNjA5NDFdfQ
+==
 -->
