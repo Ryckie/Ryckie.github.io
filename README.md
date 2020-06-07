@@ -104,6 +104,3 @@ Note: these commands only work if you have the administrator permission. The *ad
 ******************
 Last updated on June, 5 2020
 Made by: dangerBEclose
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NzI5Nzc3LC0xOTI1MDYwOTQxXX0=
--->
