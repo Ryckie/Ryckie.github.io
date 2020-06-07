@@ -1,4 +1,4 @@
-![](https://imgur.com/S9EY6m3.png)
+![](https://s3.amazonaws.com/files.enjin.com/778581/Final%20DEFR%20Logo/Logo-DEFR.png)
 
 # [Dead Friends Gaming - Discord commands guide](https://discord.link/defr "Click to open the DEFR Discord")
 
@@ -81,6 +81,7 @@
 
 -  `!announce [message]` - Send an announcement message to the *#announcements channel*
 -  `!clear <@user> [ammount]` - Clear x messages (optional from the mentioned user) in the current channel.
+- 
 
 **Tickets**
 
@@ -103,3 +104,6 @@ Note: these commands only work if you have the administrator permission. The *ad
 ******************
 Last updated on June, 5 2020
 Made by: dangerBEclose
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MjUwNjA5NDFdfQ==
+-->
